@@ -1,0 +1,10 @@
+spring:
+  ai:
+    ollama:
+      chat:
+        options:
+          model: llama3.2
+      embedding:
+        model:
+server:
+  port: 8082
