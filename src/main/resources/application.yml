@@ -6,5 +6,6 @@ spring:
           model: llama3.2
       embedding:
         model:
+      base-url: http://localhost:11434
 server:
   port: 8082
